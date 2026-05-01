@@ -10,7 +10,6 @@
 
 <script>
 	import Hero from './components/Hero.vue';
-
 	import Apropos from './components/Apropos.vue';
 	import Skills from './components/Skills.vue';
 	import Projects from './components/Projects.vue';
