@@ -3,7 +3,6 @@ import Vue2SmoothScroll from 'vue2-smooth-scroll';
 import App from './App.vue';
 import './assets/styles.scss';
 
-// Vue.config.productionTip = false;
 Vue.use(Vue2SmoothScroll, { duration: 1500, updateHistory: false });
 
 const vue = new Vue({
